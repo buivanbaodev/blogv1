@@ -7,5 +7,7 @@
 	  <li><a href="#news">News</a></li>
 	  <li><a href="#contact">Contact</a></li>
 	  <li><a href="#about">About</a></li>
+		<li><a href="http://localhost/blogv1/admin/users.php"</a>AD</li>
+		
 	</ul>
 </div>

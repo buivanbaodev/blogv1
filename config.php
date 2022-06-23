@@ -1,7 +1,8 @@
 <?php 
+
 	session_start();
 	// connect to database
-	$conn = mysqli_connect("localhost", "root", "", "complete-blog-php");
+	$conn = mysqli_connect("localhost", "root", "", "v1");
 
 	if (!$conn) {
 		die("Error connecting to database: " . mysqli_connect_error());
